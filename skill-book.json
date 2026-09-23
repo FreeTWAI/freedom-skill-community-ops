@@ -1,0 +1,11 @@
+{
+  "format": "freedom.skill-book/v1",
+  "id": "freedom-skill-community-ops",
+  "title": "新人接待與社群活動",
+  "version": "0.1.0",
+  "guild_key": "guild_member_operations",
+  "entry": "SKILL.md",
+  "execution": "manual_or_member_owned_assistant",
+  "repository": "https://github.com/FreeTWAI-AI/freedom-skill-community-ops",
+  "license": "NOASSERTION"
+}
