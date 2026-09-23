@@ -1,5 +1,21 @@
 # 自由工坊 · 新人接待與社群活動
 
+<!-- freedom-repository-guide:start -->
+## 在自由工坊的位置
+
+[自由工坊](https://freetwai.com) 讓會員先完成定位、選擇公會並領取 Repo 技能書，再以供貨、商店、開源作品、行銷與小隊共同完成成果。
+
+新人接待與社群營運公會的原創入門手冊與可填模板。 已有歡迎流程、活動規劃與交接模板，可手動操作或交給自己的 AI 輔助。
+
+目前是文件技能書，沒有背景服務、會員登入或自動平台同步。
+
+本 repo 的維護者負責「新人接待與社群營運公會的原創入門手冊與可填模板。」這個模組；公會職稱與自填 GitHub slug 不授予寫入權。
+
+程式／內容入口：[SKILL.md](SKILL.md)、[RESULT-TEMPLATE.md](RESULT-TEMPLATE.md)、[skill-book.json](skill-book.json)。協作先讀 [CONTRIBUTING.md](CONTRIBUTING.md)，讓 Agent 讀 [AGENTS.md](AGENTS.md)；從[本倉 Issues](https://github.com/FreeTWAI-AI/freedom-skill-community-ops/issues)認領、[查看既有 PR](https://github.com/FreeTWAI-AI/freedom-skill-community-ops/pulls)避免重工。
+
+把新人引導、社群活動與交接整理成可重用流程。 不會自動加入群組、發 LINE／Discord 訊息或取得平台管理權。 會員、公會、技能書授予和公開成果 ref 仍以中央平台 API 的紀錄為準；私人素材留在自己的儲存位置。 跨 repo 的協定由[中央平台](https://github.com/FreeTWAI-AI/freedom-platform)維護。
+<!-- freedom-repository-guide:end -->
+
 把歡迎、引導與活動整理成能交接的社群流程。
 
 這是公會入門技能書，可以 fork 後整理成自己的工作筆記與模板。
