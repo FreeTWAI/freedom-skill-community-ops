@@ -6,6 +6,6 @@
   "guild_key": "guild_member_operations",
   "entry": "SKILL.md",
   "execution": "manual_or_member_owned_assistant",
-  "repository": "https://github.com/FreeTWAI-AI/freedom-skill-community-ops",
+  "repository": "https://github.com/FreeTWAI/freedom-skill-community-ops",
   "license": "NOASSERTION"
 }
